@@ -1,5 +1,7 @@
 # BioStack Dashboard 🧬📊
 
+🚀 [Live App on Vercel](https://biostack-dashboard.vercel.app/) 
+
 A lightweight machine learning dashboard that visualizes high-dimensional bioinformatics data using t-SNE, predicts `sirna_id` labels using LightGBM, and lets users explore sample-level predictions in an interactive 2D space.
 
 ---
